@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev-ahmadubah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on (ahmadsta7@gmail.com)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning 
 
