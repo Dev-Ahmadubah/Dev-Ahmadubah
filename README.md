@@ -40,11 +40,8 @@
  ## 🌐 &nbsp;Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ahmadubah&show_icons&theme=radical&layout=compact" alt="dev-ahmadubah" /></p>
 
-
-
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev-Ahmadubah&theme=radical&border_radius=4.4)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev-Ahmadubah&theme=radical&border_radius=4.4)](https://git.io/streak-stats)
 
 
