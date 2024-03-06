@@ -11,7 +11,7 @@
 - 🧑‍💻 &nbsp; Frontend Engineer.
 - 🤔 &nbsp; Exploring Web technologies and developing software solutions.
 - 🎓 &nbsp; Studied Software Engineering.
-- 👨🏻‍💻 &nbsp; Freelancer, Open source Contributor (FloatUI, Devhunt).
+- 👨🏻‍💻 &nbsp; Freelancer, Open source Contributor.
 - ⚡ &nbsp; Fun fact "I like basketball"
 
 
