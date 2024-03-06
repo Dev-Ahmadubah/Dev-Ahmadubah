@@ -8,11 +8,11 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🧑‍💻 &nbsp; Self Taught Frontend Developer.
+- 🧑‍💻 &nbsp; Frontend Engineer.
 - 🤔 &nbsp; Exploring Web technologies and developing software solutions.
 - 🎓 &nbsp; Studied Software Engineering.
-- 👨🏻‍💻 &nbsp; Freelancer.
-- ⚡ &nbsp; Fun fact "I design  website so fast, you'll think I'm a magician"
+- 👨🏻‍💻 &nbsp; Freelancer, Open source Contributor (FloatUI, Devhunt).
+- ⚡ &nbsp; Fun fact "I like basketball"
 
 
 <br>
